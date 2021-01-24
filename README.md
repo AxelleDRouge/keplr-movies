@@ -33,11 +33,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Dependencies
 The dependencies used in this project includes : 
--TypeScript
--react and the dependencies included with the Create-React-App CLI
--eslint
--ant-design
--styled-components
--material-icons
--axios
+- TypeScript
+- react and the dependencies included with the Create-React-App CLI
+- eslint
+- ant-design
+- styled-components
+- material-icons
+- axios
 
