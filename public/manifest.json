@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Keplr Movies",
+  "name": "Keplr Search Movies App",
   "icons": [
     {
       "src": "favicon.ico",
